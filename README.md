@@ -34,7 +34,7 @@ Normalizing numerical columns where needed
 
 This ensured accurate and reliable analysis.
 
- Key Insights (Overall Results):
+ Key Insights :
 1️.Cancellation Analysis
 
 Long lead time strongly correlates with cancellations
